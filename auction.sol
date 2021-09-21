@@ -31,7 +31,7 @@ contract Auction {
     constructor() public {
         // Inicializo el valor a las variables (datos)
         description = "Subasta de la Gioconda de Leonardo da Vinci";
-        basePrice = 1 ether;
+        basePrice = 0 ether;
         secondsToEnd = 86400;
         activeContract = true;
         createdTime = block.timestamp;
