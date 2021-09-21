@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-3.0 */
 // Version de solidity
 pragma solidity >=0.4.22 <0.7.0;
 
